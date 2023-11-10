@@ -1,7 +1,7 @@
 # AlarmClockTkinter
 
-# Overview
-This is a simple alarm clock application built using Python's Tkinter library. The application allows users to set an alarm time in a 24-hour format and notifies them with a message when the set time is reached.
+Acknowledgments
+This project was created as an educational example and demonstration, during my internship at SYNC INTERN'S, of using the Tkinter library to build a simple Alarm Clock. The application allows users to set an alarm time in a 24-hour format and notifies them with a message when the set time is reached.
 
 # Features
 - Set Alarm: Users can enter the desired alarm time using the 24-hour format.
